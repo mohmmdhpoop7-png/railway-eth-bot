@@ -1,0 +1,5 @@
+requests
+mnemonic
+bip32utils
+python-telegram-bot
+web3
